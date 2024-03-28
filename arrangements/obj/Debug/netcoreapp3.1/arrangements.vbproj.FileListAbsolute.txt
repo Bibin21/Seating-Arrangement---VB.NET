@@ -1,0 +1,14 @@
+C:\Users\Bibin\source\repos\arrangements\arrangements\bin\Debug\netcoreapp3.1\arrangements.exe
+C:\Users\Bibin\source\repos\arrangements\arrangements\bin\Debug\netcoreapp3.1\arrangements.deps.json
+C:\Users\Bibin\source\repos\arrangements\arrangements\bin\Debug\netcoreapp3.1\arrangements.runtimeconfig.json
+C:\Users\Bibin\source\repos\arrangements\arrangements\bin\Debug\netcoreapp3.1\arrangements.runtimeconfig.dev.json
+C:\Users\Bibin\source\repos\arrangements\arrangements\bin\Debug\netcoreapp3.1\arrangements.dll
+C:\Users\Bibin\source\repos\arrangements\arrangements\bin\Debug\netcoreapp3.1\arrangements.pdb
+C:\Users\Bibin\source\repos\arrangements\arrangements\obj\Debug\netcoreapp3.1\arrangements.vbproj.AssemblyReference.cache
+C:\Users\Bibin\source\repos\arrangements\arrangements\obj\Debug\netcoreapp3.1\arrangements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibin\source\repos\arrangements\arrangements\obj\Debug\netcoreapp3.1\arrangements.AssemblyInfoInputs.cache
+C:\Users\Bibin\source\repos\arrangements\arrangements\obj\Debug\netcoreapp3.1\arrangements.AssemblyInfo.vb
+C:\Users\Bibin\source\repos\arrangements\arrangements\obj\Debug\netcoreapp3.1\arrangements.vbproj.CoreCompileInputs.cache
+C:\Users\Bibin\source\repos\arrangements\arrangements\obj\Debug\netcoreapp3.1\arrangements.dll
+C:\Users\Bibin\source\repos\arrangements\arrangements\obj\Debug\netcoreapp3.1\arrangements.pdb
+C:\Users\Bibin\source\repos\arrangements\arrangements\obj\Debug\netcoreapp3.1\arrangements.genruntimeconfig.cache
